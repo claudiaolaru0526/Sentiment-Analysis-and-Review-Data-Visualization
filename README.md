@@ -1,2 +1,2 @@
-# PROIECT3
-Acest proiect este despre analiza si vizualizarea sentimentelor dintr-o recenzie text, folosind diferite tehnologii, cum ar fi Python, librarii NLP, fisiere CSV/JSON si Matplotlib/Seaborn.
+# Sentiment Analysis and Review Data Visualization
+This project focuses on sentiment analysis and visualization of text reviews, leveraging technologies such as Python, C++, NLP libraries, CSV/JSON data formats, and Matplotlib/Seaborn.
